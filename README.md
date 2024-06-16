@@ -3,4 +3,4 @@ Hi, I am JINHANG, currently an undergraduate in National University of Singapore
 ---
 
 - [Homepage](https://jhqiu21.github.io/)
-- [Blog](#)
+- [Blog](https://jhqiu21.github.io/Blog/)
